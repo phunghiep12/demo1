@@ -1,0 +1,10 @@
+D:\OneDrive - Đại học FPT- FPT University\Desktop\Thư mục mới\SimplePaint\SimplePaint\bin\Debug\SimplePaint.exe.config
+D:\OneDrive - Đại học FPT- FPT University\Desktop\Thư mục mới\SimplePaint\SimplePaint\bin\Debug\SimplePaint.exe
+D:\OneDrive - Đại học FPT- FPT University\Desktop\Thư mục mới\SimplePaint\SimplePaint\bin\Debug\SimplePaint.pdb
+D:\OneDrive - Đại học FPT- FPT University\Desktop\Thư mục mới\SimplePaint\SimplePaint\obj\Debug\SimplePaint.csproj.AssemblyReference.cache
+D:\OneDrive - Đại học FPT- FPT University\Desktop\Thư mục mới\SimplePaint\SimplePaint\obj\Debug\SimplePaint.FrmMain.resources
+D:\OneDrive - Đại học FPT- FPT University\Desktop\Thư mục mới\SimplePaint\SimplePaint\obj\Debug\SimplePaint.Properties.Resources.resources
+D:\OneDrive - Đại học FPT- FPT University\Desktop\Thư mục mới\SimplePaint\SimplePaint\obj\Debug\SimplePaint.csproj.GenerateResource.cache
+D:\OneDrive - Đại học FPT- FPT University\Desktop\Thư mục mới\SimplePaint\SimplePaint\obj\Debug\SimplePaint.csproj.CoreCompileInputs.cache
+D:\OneDrive - Đại học FPT- FPT University\Desktop\Thư mục mới\SimplePaint\SimplePaint\obj\Debug\SimplePaint.exe
+D:\OneDrive - Đại học FPT- FPT University\Desktop\Thư mục mới\SimplePaint\SimplePaint\obj\Debug\SimplePaint.pdb
